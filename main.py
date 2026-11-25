@@ -9,7 +9,7 @@ The coinage:
     hours too late.
 
 "showerdict" blends "shower" and "verdict": the verdict you finally
-deliver, flawlessly, under running water — long after the argument
+deliver, flawlessly, under running water — hours after the argument
 itself is over. Everyone has won an argument in the shower; English
 just never gave that victory a name.
 """
